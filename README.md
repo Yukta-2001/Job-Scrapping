@@ -1,6 +1,3 @@
-Here is the updated project description in raw format with the name changed to Yukta Mahajan:
-
-```
 # Job Scraping Project
 
 This project is a web-based application designed to scrape job listings from various online platforms and present them in a structured format. It helps users search for jobs efficiently by consolidating job listings and providing customizable filters.
@@ -98,5 +95,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Let me know if you need any further changes!
